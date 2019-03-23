@@ -6,6 +6,10 @@ My next goal is to create my own website, this time more or less from scratch to
 
 -R
 
+![](images/ScreenshotHomeWebsite.png)
+![](images/ScreenshotIntro.png)
+      
+
 ### HTML5UP
 
 > Dimension by HTML5 UP
