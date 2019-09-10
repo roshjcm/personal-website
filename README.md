@@ -1,8 +1,8 @@
 # The website
 
-The idea here was to see how to create a nice personal website. Being a newbie, I looked into the code of a template from HTML5 UP *[further credits/information at the end of the readme]*. As I was exploring the code and researching what meant what, I played a bit with it, changing some little things here and there. 
+The idea here was to see how to create a nice personal website. To get familiar with webdev, I looked into the code of a template from HTML5 UP *[further credits/information at the end of the readme]*. As I was exploring the code and researching what meant what, I played with it, changing some things here and there. 
 
-My next goal is to create my own website, this time more or less from scratch to improve my webdev skills. 
+My next goal is to create my own website, this time more or less from scratch to improve my webdev skills further. 
 
 -R
 
